@@ -12,7 +12,7 @@ public class HomeWQ1 {
         String middlename = input.next();
         System.out.println("Enter last name");
         String lastname = input.next();
-        System.out.println(firstname + " " + middlename.charAt(0) + "." + " " + lastname);
+        System.out.println(firstname + " " +  middlename.charAt(0) + ". " + " " + lastname);
         input.close();
-    }
-}
+        }
+     }

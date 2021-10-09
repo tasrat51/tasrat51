@@ -10,7 +10,7 @@ public class HWQ3 {
         System.out.println(" Enter temperature in celsius ");
         celsius = input.nextInt();
         fahrenheit = (1.8 * celsius + 32);
-        System.out.println("Fahrenheit is: " + fahrenheit);
+        System.out.println( fahrenheit+ " Fahrenheit " );
         input.close();
 
     }

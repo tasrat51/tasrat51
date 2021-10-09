@@ -40,6 +40,6 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student" + "stdName='" + stdName + '\'' + ", stdId=" + stdId + ", gpa=" + gpa + " course : " + this.course.getCourseName() ;
+        return "Student" + "stdName='" + stdName + '\'' + ", stdId = " + stdId + ", gpa = " + gpa + " course : " + this.course.getCourseName() ;
     }
 }
