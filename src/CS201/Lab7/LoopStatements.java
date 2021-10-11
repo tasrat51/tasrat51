@@ -5,7 +5,7 @@ public class LoopStatements {
         // using for loop to get the sum of numbers
         int sum = 0;
         for (int i = 1; i <= 100; i++) {
-            System.out.println(i);
+          //  System.out.println(i);
 
             sum = (sum + i);
         }
